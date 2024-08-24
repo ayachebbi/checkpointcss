@@ -1,0 +1,49 @@
+#titre{
+    color:rgb(255, 0, 140);
+    font-family:initial;
+    size: 3px;
+    margin-left: 7%;
+}
+li{
+    display: inline;
+    color:blueviolet;
+    size: 1px;
+    margin-left: 5%;
+}
+nav{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 5%;
+}
+p{
+    size: 2px;;
+    color:black;
+    margin-left: 5%;
+}
+section{
+    size: 1px;
+    color:rgb(255, 0, 140);
+    font-style: oblique;
+    margin-left:5%;
+}
+label{
+    size-adjust:inherit;
+    size: 1px;
+    color: cornflowerblue;
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 5%;
+}
+ul li a:hover{
+   background-color:rgb(0, 255, 242);
+   margin-left: 5%;
+}
+img{
+    margin-left: 5%;
+}
+select{
+    margin-left: 5%;
+    border-color: rgb(255, 0, 140);
+}
+.class{
+    color: rgb(255, 0, 140);
+}
